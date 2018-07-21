@@ -1,5 +1,6 @@
 {
   "atom-text-editor": {
-    "shift-f3": "change-case-menu:list"
+    "f3": "change-case-menu:list",
+    "shift-f3": "change-case-menu:feeling-lucky"
   }
 }
