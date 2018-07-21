@@ -1,0 +1,21 @@
+{
+  "name": "change-case-menu",
+  "main": "./lib/change-case-menu",
+  "version": "0.0.0",
+  "description": "Displays a selection menu with a live preview of case changing options available from the change-case package.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "change-case-menu:list"
+  },
+  "repository": "https://github.com/atom/change-case-menu",
+  "license": "MIT",
+  "author":"Paul G. St-Aubin",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "change-case": "~3.0.0",
+    "atom-select-list": "^0.7.0"
+  }
+}

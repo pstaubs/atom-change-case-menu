@@ -1,0 +1,5 @@
+{
+  "atom-text-editor": {
+    "shift-f3": "change-case-menu:list"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Change Case Menu",
+        "submenu": [
+          {"label": "List",           "command": "change-case-menu:list"},
+          {"type":  "separator"},
+          {"label": "lowercase",      "command": "change-case-menu:lower"},
+          {"label": "lOWERCASEFIRST", "command": "change-case-menu:lowerFirst"},
+          {"label": "sentence case",  "command": "change-case-menu:sentence"},
+          {"label": "Title Case",     "command": "change-case-menu:title"},
+          {"label": "UPPERCASE",      "command": "change-case-menu:upper"},
+          {"label": "Uppercasefirst", "command": "change-case-menu:upperFirst"},
+          {"type":  "separator"},
+          {"label": "camelCase",      "command": "change-case-menu:camel"},
+          {"label": "CONSTANT_CASE",  "command": "change-case-menu:constant"},
+          {"label": "dot.case",       "command": "change-case-menu:dot"},
+          {"label": "param-case",     "command": "change-case-menu:param"},
+          {"label": "PascalCase",     "command": "change-case-menu:pascal"},
+          {"label": "path/case",      "command": "change-case-menu:path"},
+          {"label": "snake_case",     "command": "change-case-menu:snake"},
+          {"type":  "separator"},
+          {"label": "Swap Case",      "command": "change-case-menu:swap"}
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Change Case Menu",
+          "submenu": [
+            {"label": "List",           "command": "change-case-menu:list"},
+            {"type":  "separator"},
+            {"label": "lowercase",      "command": "change-case-menu:lower"},
+            {"label": "lOWERCASEFIRST", "command": "change-case-menu:lowerFirst"},
+            {"label": "sentence case",  "command": "change-case-menu:sentence"},
+            {"label": "Title Case",     "command": "change-case-menu:title"},
+            {"label": "UPPERCASE",      "command": "change-case-menu:upper"},
+            {"label": "Uppercasefirst", "command": "change-case-menu:upperFirst"},
+            {"type":  "separator"},
+            {"label": "camelCase",      "command": "change-case-menu:camel"},
+            {"label": "CONSTANT_CASE",  "command": "change-case-menu:constant"},
+            {"label": "dot.case",       "command": "change-case-menu:dot"},
+            {"label": "param-case",     "command": "change-case-menu:param"},
+            {"label": "PascalCase",     "command": "change-case-menu:pascal"},
+            {"label": "path/case",      "command": "change-case-menu:path"},
+            {"label": "snake_case",     "command": "change-case-menu:snake"},
+            {"type":  "separator"},
+            {"label": "Swap Case",      "command": "change-case-menu:swap"}
+          ]
+        }
+      ]
+    }
+  ]
+}
