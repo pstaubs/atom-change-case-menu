@@ -8,7 +8,7 @@
           {"type":  "separator"},
           {"label": "lowercase",      "command": "change-case-menu:lower"},
           {"label": "lOWERCASEFIRST", "command": "change-case-menu:lowerFirst"},
-          {"label": "sentence case",  "command": "change-case-menu:sentence"},
+          {"label": "Sentence case",  "command": "change-case-menu:sentence"},
           {"label": "Title Case",     "command": "change-case-menu:title"},
           {"label": "UPPERCASE",      "command": "change-case-menu:upper"},
           {"label": "Uppercasefirst", "command": "change-case-menu:upperFirst"},
@@ -21,7 +21,7 @@
           {"label": "path/case",      "command": "change-case-menu:path"},
           {"label": "snake_case",     "command": "change-case-menu:snake"},
           {"type":  "separator"},
-          {"label": "Swap Case",      "command": "change-case-menu:swap"}
+          {"label": "sWAP cASE",      "command": "change-case-menu:swap"}
         ]
       }
     ]
@@ -37,7 +37,7 @@
             {"type":  "separator"},
             {"label": "lowercase",      "command": "change-case-menu:lower"},
             {"label": "lOWERCASEFIRST", "command": "change-case-menu:lowerFirst"},
-            {"label": "sentence case",  "command": "change-case-menu:sentence"},
+            {"label": "Sentence case",  "command": "change-case-menu:sentence"},
             {"label": "Title Case",     "command": "change-case-menu:title"},
             {"label": "UPPERCASE",      "command": "change-case-menu:upper"},
             {"label": "Uppercasefirst", "command": "change-case-menu:upperFirst"},
@@ -50,7 +50,7 @@
             {"label": "path/case",      "command": "change-case-menu:path"},
             {"label": "snake_case",     "command": "change-case-menu:snake"},
             {"type":  "separator"},
-            {"label": "Swap Case",      "command": "change-case-menu:swap"}
+            {"label": "sWAP cASE",      "command": "change-case-menu:swap"}
           ]
         }
       ]
