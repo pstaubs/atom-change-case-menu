@@ -1,5 +1,5 @@
 {
-  "atom-text-editor": {
+  ".platform-win32 atom-workspace atom-text-editor, .platform-linux atom-workspace atom-text-editor": {
     "f3": "change-case-menu:list",
     "shift-f3": "change-case-menu:feeling-lucky"
   }
