@@ -1,10 +1,9 @@
 {
   "name": "atom-change-case-menu",
   "main": "./lib/change-case-menu",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Change case using one of 15 case styles from node-case-change. Features a configurable selection dialogue with live preview, quick style cycle, and menu-based case changing.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "change-case-menu:list",
@@ -28,7 +27,7 @@
   },
   "repository": "https://github.com/pstaubs/atom-change-case-menu",
   "license": "MIT",
-  "author":"Paul G. St-Aubin",
+  "author": "Paul G. St-Aubin",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
