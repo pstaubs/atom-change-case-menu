@@ -6,9 +6,27 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "change-case-menu:list"
+    "atom-workspace": [
+      "change-case-menu:list",
+      "change-case-menu:feeling-lucky",
+      "change-case-menu:lower",
+      "change-case-menu:lowerFirst",
+      "change-case-menu:sentence",
+      "change-case-menu:title",
+      "change-case-menu:upper",
+      "change-case-menu:upperFirst",
+      "change-case-menu:camel",
+      "change-case-menu:constant",
+      "change-case-menu:dot",
+      "change-case-menu:header",
+      "change-case-menu:param",
+      "change-case-menu:pascal",
+      "change-case-menu:path",
+      "change-case-menu:snake",
+      "change-case-menu:swap"
+    ]
   },
-  "repository": "https://github.com/atom/change-case-menu",
+  "repository": "https://github.com/pstaubs/atom-change-case-menu",
   "license": "MIT",
   "author":"Paul G. St-Aubin",
   "engines": {
