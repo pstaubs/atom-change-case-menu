@@ -2,7 +2,7 @@
   "name": "atom-change-case-menu",
   "main": "./lib/change-case-menu",
   "version": "0.0.0",
-  "description": "Displays a selection menu with a live preview of case changing options available from the change-case package.",
+  "description": "Change case using one of 15 case styles from node-case-change. Features a configurable selection dialogue with live preview, quick style cycle, and menu-based case changing.",
   "keywords": [
   ],
   "activationCommands": {
