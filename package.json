@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": [
       "change-case-menu:list",
-      "change-case-menu:feeling-lucky",
+      "change-case-menu:cycle",
       "change-case-menu:lower",
       "change-case-menu:lowerFirst",
       "change-case-menu:sentence",
