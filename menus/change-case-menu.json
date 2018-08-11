@@ -21,6 +21,7 @@
           {"label": "PascalCase",     "command": "change-case-menu:pascal"},
           {"label": "path/case",      "command": "change-case-menu:path"},
           {"label": "snake_case",     "command": "change-case-menu:snake"},
+          {"label": "win\\path\\case","command": "change-case-menu:winPath"},
           {"type":  "separator"},
           {"label": "sWAP cASE",      "command": "change-case-menu:swap"}
         ]
@@ -51,6 +52,7 @@
             {"label": "PascalCase",     "command": "change-case-menu:pascal"},
             {"label": "path/case",      "command": "change-case-menu:path"},
             {"label": "snake_case",     "command": "change-case-menu:snake"},
+            {"label": "win\\path\\case","command": "change-case-menu:winPath"},
             {"type":  "separator"},
             {"label": "sWAP cASE",      "command": "change-case-menu:swap"}
           ]
